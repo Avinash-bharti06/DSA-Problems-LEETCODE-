@@ -36,6 +36,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0013-roman-to-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -52,4 +53,12 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
