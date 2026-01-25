@@ -40,6 +40,7 @@ Tools: Git, GitHub, LeetHub
 | [0231-power-of-two](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0504-base-7) |
@@ -74,4 +75,8 @@ Tools: Git, GitHub, LeetHub
 | [0231-power-of-two](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
