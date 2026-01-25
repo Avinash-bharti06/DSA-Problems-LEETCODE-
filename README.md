@@ -18,10 +18,12 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0018-4sum) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0018-4sum) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
@@ -58,6 +60,7 @@ Tools: Git, GitHub, LeetHub
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0018-4sum) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Trie
 |  |
