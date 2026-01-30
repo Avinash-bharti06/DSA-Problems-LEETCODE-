@@ -56,6 +56,7 @@ Tools: Git, GitHub, LeetHub
 | [0492-construct-the-rectangle](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0728-self-dividing-numbers) |
 ## String
 |  |
@@ -91,6 +92,7 @@ Tools: Git, GitHub, LeetHub
 | [0231-power-of-two](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,4 +115,12 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
