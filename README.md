@@ -22,6 +22,7 @@ Tools: Git, GitHub, LeetHub
 | [0048-rotate-image](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0204-count-primes) |
+| [0812-largest-triangle-area](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0812-largest-triangle-area) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sorting
@@ -62,6 +63,7 @@ Tools: Git, GitHub, LeetHub
 | [0507-perfect-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0812-largest-triangle-area) |
 ## String
 |  |
 | ------- |
@@ -138,4 +140,8 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0412-fizz-buzz) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
