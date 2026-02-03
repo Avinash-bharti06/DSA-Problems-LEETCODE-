@@ -59,6 +59,7 @@ Tools: Git, GitHub, LeetHub
 | [0367-valid-perfect-square](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0507-perfect-number) |
@@ -107,6 +108,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0441-arranging-coins) |
 ## Matrix
 |  |
 | ------- |
