@@ -85,6 +85,7 @@ Tools: Git, GitHub, LeetHub
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0504-base-7) |
 ## Two Pointers
 |  |
@@ -159,4 +160,8 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3634-minimum-removals-to-balance-array) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
