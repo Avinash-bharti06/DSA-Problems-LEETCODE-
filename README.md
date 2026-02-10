@@ -92,6 +92,7 @@ Tools: Git, GitHub, LeetHub
 | [0412-fizz-buzz](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0504-base-7) |
+| [0709-to-lower-case](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0709-to-lower-case) |
 ## Two Pointers
 |  |
 | ------- |
