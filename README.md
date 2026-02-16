@@ -111,6 +111,7 @@ Tools: Git, GitHub, LeetHub
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -180,6 +181,7 @@ Tools: Git, GitHub, LeetHub
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
 |  |
