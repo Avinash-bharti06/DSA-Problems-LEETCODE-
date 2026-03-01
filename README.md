@@ -105,6 +105,7 @@ Tools: Git, GitHub, LeetHub
 | [1071-greatest-common-divisor-of-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2299-strong-password-checker-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2299-strong-password-checker-ii) |
 ## Two Pointers
 |  |
@@ -234,4 +235,8 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
