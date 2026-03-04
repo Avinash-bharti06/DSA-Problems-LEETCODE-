@@ -28,6 +28,7 @@ Tools: Git, GitHub, LeetHub
 | [0989-add-to-array-form-of-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3634-minimum-removals-to-balance-array) |
@@ -153,6 +154,7 @@ Tools: Git, GitHub, LeetHub
 | [0048-rotate-image](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Enumeration
 |  |
 | ------- |
