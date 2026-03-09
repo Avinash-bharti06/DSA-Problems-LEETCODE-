@@ -180,6 +180,7 @@ Tools: Git, GitHub, LeetHub
 | [0509-fibonacci-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1025-divisor-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Memoization
 |  |
 | ------- |
@@ -222,6 +223,7 @@ Tools: Git, GitHub, LeetHub
 ## Prefix Sum
 |  |
 | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Brainteaser
 |  |
