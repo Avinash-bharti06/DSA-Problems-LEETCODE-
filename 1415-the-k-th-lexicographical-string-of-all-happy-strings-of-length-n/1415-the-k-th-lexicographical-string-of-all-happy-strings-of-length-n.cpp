@@ -1,31 +1,26 @@
 class Solution {
 public:
-    string ans = "";
-    int count = 0;
+    vector<string> ans;
 
-    void solve(int n, int k, string &temp) {
-        if (!ans.empty()) return;
-
-        if (temp.size() == n) {
-            count++;
-            if (count == k) ans = temp;
+    void str(int n, string s) {
+        if (s.size() == n) {
+            ans.push_back(s);
             return;
         }
 
-        for (char ch = 'a'; ch <= 'c'; ch++) {
-            if (!temp.empty() && temp.back() == ch) continue;
+        vector<char> temp = {'a', 'b', 'c'};
 
-            temp.push_back(ch);
-            solve(n, k, temp);
-            temp.pop_back();
+        for (int j = 0; j < 3; j++) {
+            if (s.empty() || s.back() != temp[j]) {
+                str(n, s + temp[j]);
+            }
         }
     }
 
     string getHappyString(int n, int k) {
-        if (k > 3 * (1 << (n - 1))) return "";
+        str(n, "");
 
-        string temp = "";
-        solve(n, k, temp);
-        return ans;
+        if (k > ans.size()) return "";
+        return ans[k - 1];
     }
 };
