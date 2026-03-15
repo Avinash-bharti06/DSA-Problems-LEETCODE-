@@ -89,6 +89,7 @@ Tools: Git, GitHub, LeetHub
 | [0989-add-to-array-form-of-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1622-fancy-sequence](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## String
 |  |
@@ -229,6 +230,7 @@ Tools: Git, GitHub, LeetHub
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Prefix Sum
 |  |
@@ -287,4 +289,8 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
