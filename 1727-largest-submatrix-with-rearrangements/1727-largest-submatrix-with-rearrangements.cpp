@@ -1,17 +1,17 @@
 class Solution {
 public:
-    int area_lin(vector<vector<int>>& arr){
-        sort(arr.begin(),arr.end());
-        reverse(arr.begin(),arr.end());
-        int i =0;
-        int area = 0;
-        for(int i=0;i<arr.size();i++){
-            for(int j=0;j<arr[0].size();j++){
-                area += arr[i][j];
-            }
-        }
-        return area;
-    }
+    // int area_lin(vector<vector<int>>& arr){
+    //     sort(arr.begin(),arr.end());
+    //     reverse(arr.begin(),arr.end());
+    //     int i =0;
+    //     int area = 0;
+    //     for(int i=0;i<arr.size();i++){
+    //         for(int j=0;j<arr[0].size();j++){
+    //             area += arr[i][j];
+    //         }
+    //     }
+    //     return area;
+    // }
     int maxarea(vector<vector<int>>& nums){
     int n = nums.size();
     int m = nums[0].size();
@@ -43,7 +43,7 @@ public:
     int largestSubmatrix(vector<vector<int>>& matrix) {
         int n= matrix.size();
         int m = matrix[0].size();
-        if(n==1) return area_lin(matrix);
+        // if(n==1) return area_lin(matrix);
         return maxarea(matrix);
         return 0;
     }
