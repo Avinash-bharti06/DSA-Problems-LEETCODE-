@@ -1,24 +1,27 @@
 class Solution {
 public:
+    int linear(vector<vector<int>>& grid, int n, int m, int k) {
+        int cnt = 0;
+        vector<vector<long long>> sum(n, vector<long long>(m, 0));
+
+        for (int i = 0; i < n; i++) {
+            long long rowsum = 0;
+            for (int j = 0; j < m; j++) {
+                rowsum += grid[i][j];
+
+                if (i == 0) sum[i][j] = rowsum;
+                else sum[i][j] = sum[i - 1][j] + rowsum;
+
+                if (sum[i][j] <= k) cnt++;
+            }
+        }
+
+        return cnt;
+    }
+
     int countSubmatrices(vector<vector<int>>& grid, int k) {
         int n = grid.size();
         int m = grid[0].size();
-        
-        vector<vector<long long>> pref(n, vector<long long>(m, 0));
-        int cnt = 0;
-        
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                pref[i][j] = grid[i][j];
-                
-                if (i > 0) pref[i][j] += pref[i - 1][j];
-                if (j > 0) pref[i][j] += pref[i][j - 1];
-                if (i > 0 && j > 0) pref[i][j] -= pref[i - 1][j - 1];
-                
-                if (pref[i][j] <= k) cnt++;
-            }
-        }
-        
-        return cnt;
+        return linear(grid, n, m, k);
     }
 };
