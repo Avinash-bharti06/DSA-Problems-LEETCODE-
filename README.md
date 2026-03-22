@@ -31,6 +31,7 @@ Tools: Git, GitHub, LeetHub
 | [1582-special-positions-in-a-binary-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1980-find-unique-binary-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -182,6 +183,7 @@ Tools: Git, GitHub, LeetHub
 | [1582-special-positions-in-a-binary-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Enumeration
