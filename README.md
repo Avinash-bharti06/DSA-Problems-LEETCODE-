@@ -22,6 +22,7 @@ Tools: Git, GitHub, LeetHub
 | [0048-rotate-image](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
 | [0500-keyboard-row](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0500-keyboard-row) |
 | [0812-largest-triangle-area](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0812-largest-triangle-area) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
@@ -203,6 +204,7 @@ Tools: Git, GitHub, LeetHub
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -238,6 +240,7 @@ Tools: Git, GitHub, LeetHub
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3634-minimum-removals-to-balance-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## String Matching
@@ -314,6 +317,7 @@ Tools: Git, GitHub, LeetHub
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Design
@@ -332,4 +336,8 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
