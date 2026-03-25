@@ -323,6 +323,7 @@ Tools: Git, GitHub, LeetHub
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0155-min-stack) |
 | [1622-fancy-sequence](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1622-fancy-sequence) |
 ## Linked List
 |  |
@@ -331,6 +332,7 @@ Tools: Git, GitHub, LeetHub
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0155-min-stack) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
