@@ -142,6 +142,7 @@ Tools: Git, GitHub, LeetHub
 | [2299-strong-password-checker-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2299-strong-password-checker-ii) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -259,6 +260,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0459-repeated-substring-pattern) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -314,6 +316,7 @@ Tools: Git, GitHub, LeetHub
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
