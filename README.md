@@ -81,6 +81,7 @@ Tools: Git, GitHub, LeetHub
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0048-rotate-image) |
@@ -172,6 +173,7 @@ Tools: Git, GitHub, LeetHub
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0326-power-of-three) |
@@ -344,6 +346,7 @@ Tools: Git, GitHub, LeetHub
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0002-add-two-numbers) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
