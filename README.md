@@ -25,6 +25,7 @@ Tools: Git, GitHub, LeetHub
 | [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
 | [0500-keyboard-row](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0500-keyboard-row) |
 | [0812-largest-triangle-area](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0812-largest-triangle-area) |
+| [0874-walking-robot-simulation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [0989-add-to-array-form-of-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
@@ -73,6 +74,7 @@ Tools: Git, GitHub, LeetHub
 | [0205-isomorphic-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0500-keyboard-row) |
+| [0874-walking-robot-simulation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1980-find-unique-binary-string) |
@@ -247,6 +249,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0412-fizz-buzz) |
+| [0874-walking-robot-simulation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
