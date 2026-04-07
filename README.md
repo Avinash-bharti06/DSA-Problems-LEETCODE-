@@ -117,6 +117,7 @@ Tools: Git, GitHub, LeetHub
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0014-longest-common-prefix) |
