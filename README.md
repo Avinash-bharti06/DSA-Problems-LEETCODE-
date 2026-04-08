@@ -32,6 +32,7 @@ Tools: Git, GitHub, LeetHub
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -226,6 +227,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -253,6 +255,7 @@ Tools: Git, GitHub, LeetHub
 | [0874-walking-robot-simulation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3379-transformed-array) |
 ## Geometry
@@ -361,6 +364,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0155-min-stack) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
