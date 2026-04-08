@@ -225,6 +225,7 @@ Tools: Git, GitHub, LeetHub
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -353,6 +354,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1622-fancy-sequence) |
 ## Linked List
 |  |
@@ -364,6 +366,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
