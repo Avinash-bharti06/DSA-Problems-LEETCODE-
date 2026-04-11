@@ -126,6 +126,7 @@ Tools: Git, GitHub, LeetHub
 | [0020-valid-parentheses](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -249,6 +250,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0257-binary-tree-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0257-binary-tree-paths) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1980-find-unique-binary-string) |
 ## Simulation
@@ -318,6 +320,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0100-same-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
@@ -325,6 +328,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0100-same-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
@@ -332,6 +336,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0100-same-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Greedy
