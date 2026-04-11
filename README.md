@@ -316,16 +316,19 @@ Tools: Git, GitHub, LeetHub
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Greedy
@@ -383,4 +386,8 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
