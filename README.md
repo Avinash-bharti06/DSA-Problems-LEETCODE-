@@ -316,14 +316,17 @@ Tools: Git, GitHub, LeetHub
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Greedy
 |  |
