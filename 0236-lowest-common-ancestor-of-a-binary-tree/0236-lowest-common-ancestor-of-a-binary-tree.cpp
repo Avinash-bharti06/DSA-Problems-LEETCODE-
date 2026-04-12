@@ -20,6 +20,6 @@ public:
         else if(!exist(root->left,p) && !exist(root->right,q)) return root;
         else if(exist(root->left,p)&& !exist(root->right,q))
                return lowestCommonAncestor(root->left,p,q);
-        else return lowestCommonAncestor(root->right,p,q);
+        return lowestCommonAncestor(root->right,p,q);
     }
 };
