@@ -51,6 +51,7 @@ Tools: Git, GitHub, LeetHub
 | [3637-trionic-array-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Tools: Git, GitHub, LeetHub
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Tools: Git, GitHub, LeetHub
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
