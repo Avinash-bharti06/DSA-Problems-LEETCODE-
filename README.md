@@ -345,6 +345,7 @@ Tools: Git, GitHub, LeetHub
 | [0437-path-sum-iii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -378,6 +379,7 @@ Tools: Git, GitHub, LeetHub
 | [0437-path-sum-iii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Greedy
 |  |
@@ -448,4 +450,5 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
