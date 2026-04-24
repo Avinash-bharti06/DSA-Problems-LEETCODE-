@@ -30,6 +30,7 @@ Tools: Git, GitHub, LeetHub
 | [0874-walking-robot-simulation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [0989-add-to-array-form-of-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -354,6 +355,7 @@ Tools: Git, GitHub, LeetHub
 | [0543-diameter-of-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
@@ -395,6 +397,7 @@ Tools: Git, GitHub, LeetHub
 | [0543-diameter-of-binary-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Greedy
@@ -445,11 +448,13 @@ Tools: Git, GitHub, LeetHub
 | [0145-binary-tree-postorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Queue
 |  |
@@ -470,5 +475,6 @@ Tools: Git, GitHub, LeetHub
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
