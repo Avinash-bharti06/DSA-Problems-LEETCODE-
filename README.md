@@ -29,6 +29,7 @@ Tools: Git, GitHub, LeetHub
 | [0812-largest-triangle-area](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0812-largest-triangle-area) |
 | [0874-walking-robot-simulation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
+| [0944-delete-columns-to-make-sorted](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0989-add-to-array-form-of-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
@@ -149,6 +150,7 @@ Tools: Git, GitHub, LeetHub
 | [0649-dota2-senate](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0649-dota2-senate) |
 | [0696-count-binary-substrings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0709-to-lower-case) |
+| [0944-delete-columns-to-make-sorted](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
