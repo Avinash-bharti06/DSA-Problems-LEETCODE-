@@ -43,6 +43,7 @@ Tools: Git, GitHub, LeetHub
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1980-find-unique-binary-string) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2906-construct-product-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2906-construct-product-matrix) |
@@ -74,6 +75,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Tools: Git, GitHub, LeetHub
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1980-find-unique-binary-string) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -123,6 +126,7 @@ Tools: Git, GitHub, LeetHub
 | [1071-greatest-common-divisor-of-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1622-fancy-sequence](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
