@@ -64,6 +64,7 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0018-4sum](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0242-valid-anagram) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -86,6 +87,7 @@ Tools: Git, GitHub, LeetHub
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0500-keyboard-row) |
 | [0874-walking-robot-simulation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0874-walking-robot-simulation) |
@@ -145,6 +147,7 @@ Tools: Git, GitHub, LeetHub
 | [0020-valid-parentheses](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
