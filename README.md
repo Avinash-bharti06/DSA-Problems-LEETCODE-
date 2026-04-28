@@ -33,6 +33,7 @@ Tools: Git, GitHub, LeetHub
 | [0989-add-to-array-form-of-integer](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -92,6 +93,7 @@ Tools: Git, GitHub, LeetHub
 | [0500-keyboard-row](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0500-keyboard-row) |
 | [0874-walking-robot-simulation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0874-walking-robot-simulation) |
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
+| [1207-unique-number-of-occurrences](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1980-find-unique-binary-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
