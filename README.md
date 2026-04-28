@@ -346,6 +346,7 @@ Tools: Git, GitHub, LeetHub
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -369,6 +370,7 @@ Tools: Git, GitHub, LeetHub
 | [0098-validate-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0100-same-tree) |
 | [0113-path-sum-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -391,6 +393,7 @@ Tools: Git, GitHub, LeetHub
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -445,12 +448,14 @@ Tools: Git, GitHub, LeetHub
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0002-add-two-numbers) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0155-min-stack) |
