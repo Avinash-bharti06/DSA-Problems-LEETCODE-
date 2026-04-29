@@ -39,6 +39,7 @@ Tools: Git, GitHub, LeetHub
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -81,6 +82,7 @@ Tools: Git, GitHub, LeetHub
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1051-height-checker) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
 |  |
@@ -97,6 +99,7 @@ Tools: Git, GitHub, LeetHub
 | [0888-fair-candy-swap](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/0888-fair-candy-swap) |
 | [1207-unique-number-of-occurrences](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1980-find-unique-binary-string](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1980-find-unique-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -134,6 +137,7 @@ Tools: Git, GitHub, LeetHub
 | [1025-divisor-game](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1622-fancy-sequence](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1622-fancy-sequence) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/avinashbharti3007-ctrl/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
